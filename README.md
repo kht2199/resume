@@ -1,7 +1,7 @@
 # TOC
 1. [History](#history)
-2. [Project](#Project)
-3. [Skills](#Skills)
+2. [Project](#project)
+3. [Skills](#skills)
 
 # History
 - 전기공학과 졸업
