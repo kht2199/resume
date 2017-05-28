@@ -2,7 +2,7 @@
 1. [History](#history)
 2. [Project](#project)
 3. [Skills](#skills)
-4. [프로젝트 별 적용 기술](#프로젝트_별_적용_기술)
+4. [프로젝트 별 적용 기술](#프로젝트-별-적용-기술)
 
 #### History
 - 전기공학과 졸업
@@ -25,7 +25,7 @@
 1. LGU+ Smart Wallet
     1. Struts2
     2. Oracle
-    3. IBatis
+    3. iBatis
 2. 팅크웨어 블랙박스 서버
     1. Spring Framework & Spring Boot
     2. Mysql
@@ -37,4 +37,5 @@
     2. JPA
     3. Swagger UI
     4. Docker
-    5. Terraform
+    5. AWS
+    6. Terraform
