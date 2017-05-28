@@ -13,3 +13,4 @@
 # Skills
 - Spring Framework
 - AWS
+- Curiosity
