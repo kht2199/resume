@@ -35,7 +35,7 @@
 3. 낭만캠퍼스 서버
     1. Spring Framework & Spring Boot
     2. JPA
-    3. Swagger UI
+    3. [Swagger UI](http://13.124.57.75/swagger-ui.html)
     4. Docker
     5. AWS
     6. Terraform
