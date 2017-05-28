@@ -1,3 +1,8 @@
+# TOC
+1. [History] (#History)
+2. Project
+3. Skills
+
 # History
 - 전기공학과 졸업
 - 하이브리드 웹앱 교육과정 수료 (5개월)
