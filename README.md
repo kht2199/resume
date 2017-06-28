@@ -1,3 +1,4 @@
+## Resume
 #### TOC
 1. [History](#history)
 2. [Project](#project)
@@ -22,17 +23,17 @@
 - Curiosity
 
 #### 프로젝트 별 적용 기술
-1. LGU+ Smart Wallet 서버
+1. LGU+ Smart Wallet 서버 ([자세히](projects/201601_SmartWallet.md))
     1. Struts2
     2. Oracle DB
     3. iBatis
-2. 팅크웨어 블랙박스 서버
+2. 팅크웨어 블랙박스 어플리케이션 웹 서버 ([자세히](projects/201703_201706_Osprey.md))
     1. Spring Framework 4 & Spring Boot
     2. Mysql DB
     3. MyBatis
     4. AWS
     5. Terraform for AWS
-3. 낭만캠퍼스 서버
+3. 낭만캠퍼스 어플리케이션 웹 서버 ([자세히](projects/201703_RomanticCampus.md))
     1. Spring Framework 4 & Spring Boot
     2. JPA
     3. Maria DB
