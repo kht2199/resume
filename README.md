@@ -20,7 +20,6 @@
 #### Skills
 - Spring Framework
 - AWS
-- Curiosity
 
 #### 프로젝트 별 적용 기술
 1. LGU+ Smart Wallet 서버 ([자세히](projects/201601_통신사_월렛_서비스.md))
