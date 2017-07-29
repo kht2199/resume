@@ -22,11 +22,11 @@
 - AWS
 
 #### 프로젝트 별 적용 기술
-1. LGU+ Smart Wallet 서버 ([자세히](projects/201601_통신사_월렛_서비스.md))
+1. 통신사 Wallet 서비스 서버 ([자세히](projects/201601_통신사_월렛_서비스.md))
     1. Struts2
     2. Oracle DB
     3. iBatis
-2. 팅크웨어 블랙박스 어플리케이션 웹 서버 ([자세히](projects/201703_201706_블랙박스_서버.md))
+2. 블랙박스 어플리케이션 웹 서버 ([자세히](projects/201703_201706_블랙박스_서버.md))
     1. Spring Framework 4 & Spring Boot
     2. Mysql DB
     3. MyBatis
