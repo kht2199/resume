@@ -25,7 +25,7 @@
 - AWS
 
 #### 프로젝트 별 적용 기술
-1.  통신사 월렛 서버 운영개발 업무 ([자세히](projects/201601_통신사_월렛_서비스_서버.md))
+1. 통신사 월렛 서버 운영개발 업무 ([자세히](projects/201601_통신사_월렛_서비스_서버.md))
     1. Struts2
     2. Oracle DB
     3. iBatis
@@ -43,6 +43,19 @@
     4. Docker
     5. AWS
     6. Terraform for AWS
-4. 저축은행 대출 관련 웹 개발
+4. (진행중) 저축은행 대출 관련 웹 개발
     1. Spring Framework 4
     2. MySQL
+5. (진행중) 코인정보 서버/웹 개발 ([자세히](projects/201806_MarksCoin.md))
+    1. Spring boot
+    2. thymeleaf
+    3. JPA, MySQL, Spring Data Rest
+    3. Spring Cloud
+        1. API Grateway(Zuul)
+        2. Service Discovery(Eureka Server, Eureka Client)
+    4. Provisioning
+        1. Terraform
+    5. Digital Ocean
+    6. Container 
+        1. Docker
+        2. K8s (학습 후 적용예정)
