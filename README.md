@@ -55,7 +55,7 @@
     2. AWS
         - Redshift, Lambda, S3, Kinesis, Glue
     3. Zeppelin (Scala)
-6. 코인정보 서버/웹 개발 ([자세히](projects/201806_Trading.md))
+6. 코인정보 서버/웹 개발 ([자세히](projects/201808_Trading.md))
     1. Spring boot 2
     2. React, Redux, Semantic UI
     3. WebSocket STOMP
