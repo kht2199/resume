@@ -11,17 +11,20 @@
 - H&J 입사 및 퇴사 (4개월)
 - 빅데이터 교육과정 수료 (5개월)
 - UMC 입사 (2016.01~2017.12)
-- 금융권 대출신청 및 관리 웹프로젝트 (2017.03~현재)
+- 금융권 대출신청 및 관리 웹프로젝트 (2018.03~08)
+- Anypoint Media (2018.08~11)
+- 현성기업 (2018.11~2019.04)
 
 #### Project
 - 통신사 월렛 서버 운영개발 업무
 - 블랙박스 서버 개발
 - 데이팅 앱 서버 개발
 - 저축은행 대출 관련 웹 개발
-
+- 매매 프로그램 서버/웹 개발
 
 #### Skills
 - Spring Framework
+- React
 - AWS
 
 #### 프로젝트 별 적용 기술
@@ -43,19 +46,16 @@
     4. Docker
     5. AWS
     6. Terraform for AWS
-4. (진행중) 저축은행 대출 관련 웹 개발
+4. 저축은행 대출 관련 웹 개발
     1. Spring Framework 4
     2. MySQL
-5. (진행중) 코인정보 서버/웹 개발 ([자세히](projects/201806_MarksCoin.md))
-    1. Spring boot
-    2. thymeleaf
-    3. JPA, MySQL, Spring Data Rest
-    3. Spring Cloud
-        1. API Grateway(Zuul)
-        2. Service Discovery(Eureka Server, Eureka Client)
-    4. Provisioning
-        1. Terraform
-    5. Digital Ocean
-    6. Container 
-        1. Docker
-        2. K8s (학습 후 적용예정)
+5. 코인정보 서버/웹 개발 ([자세히](projects/201806_MarksCoin.md))
+    1. Spring boot 2
+    2. React, Redux, Semantic UI
+    3. WebSocket STOMP
+    4. JPA, MySQL, Spring Data Rest
+    5. Microservice
+        - GW, Config Server/Client, REST Services, Scheduler Services
+    6. AWS
+        - EC2, RDS, Route53, LB
+    7. Docker
