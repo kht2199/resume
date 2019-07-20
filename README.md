@@ -42,14 +42,19 @@
     1. Spring Framework 4 & Spring Boot
     2. JPA
     3. Maria DB
-    3. [Swagger UI](http://13.124.57.75:8080/swagger-ui.html)
+    3. Swagger UI
     4. Docker
     5. AWS
     6. Terraform for AWS
 4. 저축은행 대출 관련 웹 개발
     1. Spring Framework 4
     2. MySQL
-5. 코인정보 서버/웹 개발 ([자세히](projects/201806_MarksCoin.md))
+5. TV 광고플렛폼 서버
+    1. spring boot, batch, xd
+    2. AWS
+        - Redshift, Lambda, S3, Kinesis, Glue
+    3. Zeppelin (Scala)
+6. 코인정보 서버/웹 개발 ([자세히](projects/201806_Trading.md))
     1. Spring boot 2
     2. React, Redux, Semantic UI
     3. WebSocket STOMP
