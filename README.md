@@ -65,6 +65,6 @@
     6. AWS
         - EC2, RDS, Route53, LB
     7. Docker
-7. OVN Coporation 외주 작업 (2019.08.12 ~ 2020.09.12) ([자세히](projects/OVN.md)
+7. OVN Coporation 외주 작업 (2019.08.12 ~ 2020.02.12) ([자세히](projects/OVN.md)
     1. Crowdsourcing 신규기능 개발
     2. 기존 서비스 기능,성능 개선
