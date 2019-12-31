@@ -1,7 +1,7 @@
 ## Resume
 
 #### TOC
-![타임라인](https://drive.google.com/file/d/1myNLTz6mz8hjfoXFAkNJzHlk_uyxDMYg/view)
+![타임라인](https://s3.ap-northeast-2.amazonaws.com/cdn.heetaek.kim/2019_job_timeline.png)
 1. [History](#history)
 2. [Project](#project)
 3. [Skills](#skills)
