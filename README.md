@@ -21,48 +21,48 @@
 
 ### 유비벨록스 모바일
 1. 통신사 월렛 서버 운영개발 업무 ([자세히](projects/201601_통신사_월렛_서비스_서버.md))
-  1. Struts2
-  2. Oracle DB
-  3. iBatis
+    1. Struts2
+    2. Oracle DB
+    3. iBatis
 2. 블랙박스 서버 개발 ([자세히](projects/201703_201706_블랙박스_서버.md))
-  1. Spring Framework 4 & Spring Boot
-  2. Mysql DB
-  3. MyBatis
-  4. AWS
-  5. Terraform for AWS
+    1. Spring Framework 4 & Spring Boot
+    2. Mysql DB
+    3. MyBatis
+    4. AWS
+    5. Terraform for AWS
 3. 데이팅 앱 서버 개발 ([자세히](projects/201703_RomanticCampus.md))
-  1. Spring Framework 4 & Spring Boot
-  2. JPA
-  3. Maria DB
-  4. Swagger UI
-  4. Docker
-  5. AWS
-  6. Terraform for AWS
+    1. Spring Framework 4 & Spring Boot
+    2. JPA
+    3. Maria DB
+    4. Swagger UI
+    5. Docker
+    6. AWS
+    7. Terraform for AWS
 4. 저축은행 대출 관련 웹 개발
-  1. Spring Framework 4
-  2. MySQL
+    1. Spring Framework 4
+    2. MySQL
 
 ### 애니포인트 미디어
 1. TV 광고플렛폼 서버
-  1. spring boot, batch, xd
-  2. AWS
-    - Redshift, Lambda, S3, Kinesis, Glue
-  3. Zeppelin
+    1. spring boot, batch, xd
+    2. AWS
+      - Redshift, Lambda, S3, Kinesis, Glue
+    3. Zeppelin
 
 ### 현성기업
 1. 암호화폐 트레이딩 서비스 서버/웹 개발 ([자세히](projects/201808_Trading.md))
-  1. Spring boot 2
-  2. React, Redux, Semantic UI
-  3. WebSocket STOMP
-  4. JPA, MySQL, Spring Data Rest
-  5. Microservice
-    - GW, Config Server/Client, REST Services, Scheduler Services
-  6. AWS
-    - EC2, RDS, Route53, LB
-  7. Docker, Docker swarm
+    1. Spring boot 2
+    2. React, Redux, Semantic UI
+    3. WebSocket STOMP
+    4. JPA, MySQL, Spring Data Rest
+    5. Microservice
+      - GW, Config Server/Client, REST Services, Scheduler Services
+    6. AWS
+      - EC2, RDS, Route53, LB
+    7. Docker, Docker swarm
 
 ### 오브이엔
-1. OVN Coporation 외주 작업 (2019.08.12 ~ 2020.02.12) ([자세히](projects/OVN.md)
+1. OVN Coporation 외주 작업 (2019.08.12 ~ 2020.02.12) ([자세히](projects/OVN.md))
     1. Crowdsourcing 신규기능 개발
     2. 기존 서비스 기능,성능 개선
 2. Chrome extension
