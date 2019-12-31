@@ -30,7 +30,7 @@
     3. MyBatis
     4. AWS
     5. Terraform for AWS
-3. [데이팅 앱 서버 개발](projects/201703_RomanticCampus.md))
+3. [데이팅 앱 서버 개발](projects/201703_RomanticCampus.md)
     1. Spring Framework 4 & Spring Boot
     2. JPA
     3. Maria DB
@@ -50,7 +50,7 @@
     3. Zeppelin
 
 ### 현성기업
-1. [암호화폐 트레이딩 서비스 서버/웹 개발](projects/201808_Trading.md))
+1. [암호화폐 트레이딩 서비스 서버/웹 개발](projects/201808_Trading.md)
     1. Spring boot 2
     2. React, Redux, Semantic UI
     3. WebSocket STOMP
@@ -62,7 +62,7 @@
     7. Docker, Docker swarm
 
 ### 오브이엔
-1. [OVN Coporation 외주 작업](projects/OVN.md))
+1. [OVN Coporation 외주 작업](projects/OVN.md)
     1. Crowdsourcing 신규기능 개발
     2. 기존 서비스 기능,성능 개선
 2. Chrome extension
