@@ -46,7 +46,7 @@
 1. TV 광고플렛폼 서버
     1. spring boot, batch, xd
     2. AWS
-      - Redshift, Lambda, S3, Kinesis, Glue
+        - Redshift, Lambda, S3, Kinesis, Glue
     3. Zeppelin
 
 ### 현성기업
@@ -56,9 +56,9 @@
     3. WebSocket STOMP
     4. JPA, MySQL, Spring Data Rest
     5. Microservice
-      - GW, Config Server/Client, REST Services, Scheduler Services
+        - GW, Config Server/Client, REST Services, Scheduler Services
     6. AWS
-      - EC2, RDS, Route53, LB
+        - EC2, RDS, Route53, LB
     7. Docker, Docker swarm
 
 ### 오브이엔
