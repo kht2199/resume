@@ -6,11 +6,14 @@
 
 
 ## History
-![타임라인](https://s3.ap-northeast-2.amazonaws.com/cdn.heetaek.kim/2019_timeline.png)
+### 기본이력
 - 전기공학과 졸업 (2006.03~2013.02)
 - 하이브리드 웹앱 교육과정 수료 (5개월)
-- H&J 입사 및 퇴사 (4개월)
 - 빅데이터 교육과정 수료 (5개월)
+
+### IT
+![타임라인](https://s3.ap-northeast-2.amazonaws.com/cdn.heetaek.kim/2019_timeline.png)
+- H&J(4개월)
 - 유비벨록스모바일 근무 (2016.01~2017.12)
 - 저축은행 대출신청, 관리 웹 프로젝트 - 외주 (2018.02~07)
 - Anypoint Media (2018.07~11)
