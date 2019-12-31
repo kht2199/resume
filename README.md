@@ -1,9 +1,12 @@
 ## Resume
+
 #### TOC
+![타임라인](https://drive.google.com/open?id=1myNLTz6mz8hjfoXFAkNJzHlk_uyxDMYg)
 1. [History](#history)
 2. [Project](#project)
 3. [Skills](#skills)
 4. [프로젝트 별 적용 기술](#프로젝트-별-적용-기술)
+
 
 #### History
 - 전기공학과 졸업
