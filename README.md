@@ -1,7 +1,7 @@
 ## Resume
 
 #### TOC
-![타임라인](https://drive.google.com/open?id=1myNLTz6mz8hjfoXFAkNJzHlk_uyxDMYg)
+![타임라인](https://drive.google.com/file/d/1myNLTz6mz8hjfoXFAkNJzHlk_uyxDMYg/view)
 1. [History](#history)
 2. [Project](#project)
 3. [Skills](#skills)
