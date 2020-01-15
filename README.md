@@ -1,6 +1,6 @@
 # Resume
 
-## TOC
+## 목차
 1. [History](#history)
     1. [기본이력](#기본이력)
     2. [IT](#IT)
@@ -19,7 +19,8 @@
 - 빅데이터 교육과정 수료 (5개월)
 
 ### IT
-![타임라인](https://s3.ap-northeast-2.amazonaws.com/cdn.heetaek.kim/2019_timeline.png)
+![타임라인](https://s3.ap-northeast-2.amazonaws.com/cdn.heetaek.kim/2019_timeline.png)  
+
 - H&J(4개월)
 - 유비벨록스모바일 근무 (2016.01~2017.12)
 - 저축은행 대출신청, 관리 웹 프로젝트 - 외주 (2018.02~07)
