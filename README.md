@@ -48,8 +48,9 @@
     5. Docker
     6. AWS
     7. Terraform
-### 저축은행
-1. 저축은행 대출 관련 웹 개발
+
+### 저축은행(프리랜서)
+1. 저축은행 대출 웹 페이지 신규 구축
     1. Spring Framework 4
     2. MySQL
 
@@ -77,3 +78,7 @@
     3. AWS
         - cloud front, beanstalk
 2. Chrome extension을 이용한 폼 입력 자동화 툴 개발.
+
+### [HNINE](projects/HNINE.md) (2020.04~)
+1. Wenzi
+2. Cracker9
