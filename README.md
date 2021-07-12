@@ -71,8 +71,8 @@
     6. AWS
     7. Docker, Docker swarm
 
-### 오브이엔
-1. [OVN Creavorite Service](projects/OVN.md)
+### [오브이엔](projects/OVN.md)
+1. OVN Creavorite Service
     1. Spring boot
     2. JPA. MySQL
     3. AWS
