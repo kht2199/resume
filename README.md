@@ -55,7 +55,7 @@
         - Redshift, Lambda, S3, Kinesis, Glue. 
     3. Zeppelin. 
 
-## 현성기업
+## 현성기업(사대보험 미적용)  
 1. [암호화폐 트레이딩 서비스 서버/웹 개발](projects/201808_Trading.md)
     1. Spring boot 2. 
     2. React, Redux, Semantic UI. 
